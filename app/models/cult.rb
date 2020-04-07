@@ -1,4 +1,4 @@
-class Cult 
+class Cult
 
   def initialize(name,location,founding_year,slogan)
     @name = name
@@ -6,5 +6,5 @@ class Cult
     @founding_year = founding_year
     @slogan = slogan
 
-  
+
 end
