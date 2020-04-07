@@ -14,8 +14,6 @@ cult3 = Cult.new("cult3", "chicago", 2012, 'michael jordan forever')
 
 
 
-
-
 binding.pry
 
 puts "Mwahahaha!" # just in case pry is buggy and exits
