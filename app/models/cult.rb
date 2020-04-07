@@ -10,8 +10,8 @@ attr_accessor :name,:location,:founding_year,:slogan
 #takes in an argument of a Follower instance and adds them to this cult's list of followers
 # def recruit_follower(follower)
 #   @follower
-# 
+#
 # def cult_population(num_follower)
 #   follow
-# 
+#
 # end
